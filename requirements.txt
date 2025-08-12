@@ -1,0 +1,7 @@
+transformers
+datasets
+torch
+faiss-cpu
+wget
+matplotlib
+scikit-learn
