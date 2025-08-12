@@ -12,14 +12,22 @@ This repository demonstrates a complete workflow for implementing a **Retrieval-
 - Fully implemented in Python with Hugging Face libraries
 - Modular code for easy customization and experimentation
 
-## File
-
-- `RAG_EndToEnd_Document_QA.ipynb`: Main Jupyter Notebook demonstrating the complete RAG pipeline, from indexing documents to generating answers.
-
 ## Setup Instructions
 
-### 1. Clone the repository
-
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/RAG_EndToEnd_Document_QA.git
 cd RAG_EndToEnd_Document_QA
+```
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+## Contact
+
+Feel free to connect if you're interested in this project or want to collaborate:
+
+- GitHub: [Azadeh Hadadi](https://github.com/Azihadadi)
+- LinkedIn: _[َAzadeh Hadadi](https://www.linkedin.com/in/azadeh-hadadi/)_    
+   
+   
