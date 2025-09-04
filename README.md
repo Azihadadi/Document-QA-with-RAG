@@ -16,16 +16,13 @@ This repository demonstrates a complete workflow for implementing a **Retrieval-
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Azihadadi/RAG-EndToEnd-Document-QA.git
-cd RAG_EndToEnd_Document_QA
+git clone https://github.com/Azihadadi/RAG-endtoend-document-QA.git
+cd RAG_endtoend_document_QA
 ```
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-## Contact
-
-- GitHub: [Azadeh Hadadi](https://github.com/Azihadadi)
-- LinkedIn: _[َAzadeh Hadadi](https://www.linkedin.com/in/azadeh-hadadi/)_    
+  
    
    
